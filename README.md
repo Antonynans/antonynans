@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Antony! I'm a software Engineer💻, looking to solve real-world problems🌏. I am passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.
+I am Antony! and I am a software Engineer💻, looking to solve real-world problems🌏. I am passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.
 
- I love connecting with different people so if you want to say hi📫, I'll be happy to meet you more! 😊😊
+ I love connecting with different people so if you want to say hi📫, I will be happy to meet you more! 😊😊
  
-![](https://img.shields.io/badge/<code>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <!-- Actual text -->
@@ -33,4 +32,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/privatclass
-[2]: https://www.linkedin.com/in/muonaka
+[2]: https://www.linkedin.com/in/muonaka/
