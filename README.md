@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 I am Antony! I'm a software Engineer📱, looking to solve real-world problems🌏. I am passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.
 
  I love connecting with different people so if you want to say hi📫, I'll be happy to meet you more! 😊😊
+ www.LinkedIn.com
