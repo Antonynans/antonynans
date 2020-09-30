@@ -33,11 +33,13 @@ I am Antony! and I am a software Engineer💻, looking to solve real-world probl
 ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
 ![React](https://img.shields.io/badge/react%20-%23E34F26.svg?&style=for-the-badge&logo=react&ogoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%23E34F26.svg?&style=for-the-badge&logo=django&ogoColor=white)
+![Sql](https://img.shields.io/badge/sql%20-%23E34F26.svg?&style=for-the-badge&logo=sql&ogoColor=white)
 
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%23E34F26.svg?&style=for-the-badge&logo=docker&ogoColor=white)
+![Azure](https://img.shields.io/badge/azure%20-%23E34F26.svg?&style=for-the-badge&logo=azure&ogoColor=white)
 
 <!-- Actual text -->
 
