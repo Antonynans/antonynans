@@ -33,6 +33,7 @@ I am Antony! and I am a software Engineer💻, looking to solve real-world probl
 ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
 ![React](https://img.shields.io/badge/react%20-%23E34F26.svg?&style=for-the-badge&logo=react&ogoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%23E34F26.svg?&style=for-the-badge&logo=django&ogoColor=white)
+![Spring](https://img.shields.io/badge/spring%20-%23E34F26.svg?&style=for-the-spring&logo=python&ogoColor=white)
 ![MySql](https://img.shields.io/badge/mysql%20-%23E34F26.svg?&style=for-the-badge&logo=mysql&ogoColor=white)
 
 
