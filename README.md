@@ -19,6 +19,15 @@ I am Antony! and I am a software Engineer💻, looking to solve real-world probl
  I love connecting with different people so if you want to say hi📫, I will be happy to meet you more! 😊😊
  
 
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20-%23E34F26.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascipt%20-%2300599C.svg?&style=for-the-badge&logo=javascript&ogoColor=white)
+![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
+
+
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 <!-- Actual text -->
 
