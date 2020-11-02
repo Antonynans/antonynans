@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/antonynans)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/antonynans)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=antonynans&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/https://github.com/Antonynans?tab=repositories?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"><br />
 
 
 I am Antony! and I am a software Engineer💻, looking to solve real-world problems🌏. I am passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.
