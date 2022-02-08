@@ -29,7 +29,7 @@ I am Antony! and I am a software Engineer💻, looking to solve real-world probl
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascipt%20-%2300599C.svg?&style=for-the-badge&logo=javascript&ogoColor=white)
 ![React](https://img.shields.io/badge/react%20-%23E34F26.svg?&style=for-the-badge&logo=react&ogoColor=white)
-![TypeScript](https://img.shields.io/npm/types/typescript?color=color&label=typescript&logo=typescript&style=for-the-badge)
+(https://img.shields.io/npm/types/typescript?color=color&label=typescript&logo=typescript&style=for-the-badge)
 ![MySql](https://img.shields.io/badge/mysql%20-%23E34F26.svg?&style=for-the-badge&logo=mysql&ogoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%23E34F26.svg?&style=for-the-badge&logo=docker&ogoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
