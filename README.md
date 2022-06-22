@@ -25,8 +25,6 @@ I am Antony! and I am a software Engineer💻, looking to solve real-world probl
  I love connecting with different people so if you want to say hi📫, I will be happy to meet you more! 😊😊
  
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascipt%20-%2300599C.svg?&style=for-the-badge&logo=javascript&ogoColor=white)
 ![React](https://img.shields.io/badge/react%20-%23E34F26.svg?&style=for-the-badge&logo=react&ogoColor=white)
 ![NextJs](https://img.shields.io/badge/nextjs%20-%23E34F26.svg?&style=for-the-badge&logo=next.js&ogoColor=white)
