@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/antonynans)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/antonynans)
+[![@antonynans's Holopin board](https://holopin.io/api/user/board?user=antonynans)](https://holopin.io/@antonynans)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=antonynans&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 
