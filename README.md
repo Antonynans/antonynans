@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=antonynans&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 
-I am Antony! and I am a Frontend software Engineer💻, looking to solve real-world problems🌏. I have experience in building responsive and accessible web applications. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.
+I am Antony! and I am a Full-stack software Engineer, technical writer and MERN stack instructor💻, looking to solve real-world problems🌏. I have experience in building responsive and accessible web applications. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.
 
 I am currently open to frontend roles. 
 
