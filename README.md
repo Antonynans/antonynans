@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I am Antony! and I am a Full-stack software Engineer, technical writer and MERN stack instructor💻, looking to solve real-world problems🌏. I have experience in building responsive and accessible web applications. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.
 
-I am currently open to frontend roles. 
+I am currently open to new job opportunities. 
 
  I love connecting with different people so if you want to say hi📫, I will be happy to meet you more! 😊😊
  
