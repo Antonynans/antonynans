@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/antonynans)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=antonynans&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
-
-I am Antony! and I am a software Engineer and occasional technical writer, looking to solve real-world problems🌏. I have experience in building responsive and accessible web applications. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.
-
-I am currently open to new job opportunities. 
-
- I love connecting with different people so if you want to say hi📫, I will be happy to meet you more! 😊😊
+Software Engineer focused on building scalable, high-performance, and accessible web applications.
+I work with React, Next.js, TypeScript, Node.js and Python to turn complex ideas into fast, user-friendly products.
+Experienced in responsive design, API integration, and writing clean, maintainable code.
+Currently open to frontend/full-stack opportunities.
+📫 Open to connecting and discussing opportunities
  
 [![@antonynans's Holopin board](https://holopin.io/api/user/board?user=antonynans)](https://holopin.io/@antonynans)
 
